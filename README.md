@@ -1,7 +1,9 @@
 💫 About Me:
 
 Anish Ghimire
+
 🚀 Intro
+
 Business Analyst with a strong foundation in data analysis, product strategy, and API integrations. Passionate about optimizing workflows, automation, and system efficiency to drive impactful results.
 - 🔍 Experienced in business process analysis and data-driven decision-making
 - ⚙️ Skilled in API integrations, troubleshooting, and automation
